@@ -18,11 +18,6 @@ Anotações, exercícios e laboratórios realizados durante o módulo de Introdu
 #### Laboratório 01 - Nmap: descoberta de serviços e fingerprinting
 
 **Objetivo:** Identificar portas abertas, serviços em execução e características do sistema operacional utilizando o Nmap.
-
-**Ferramentas utilizadas:**
-- Nmap
-- Zenmap
-- Windows
   
 **Habilidades praticadas:**
 - Reconhecimento de rede
